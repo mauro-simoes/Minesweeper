@@ -1,11 +1,4 @@
-/**
-* @file ConteneurTDE.cpp
-* Projet sem04-tp-Cpp1-2
-* @author l'�quipe p�dagogique 
-* @version 2 - 29/11/2014
-* @brief corrige du TD n�3 sur machine - Exercice 2
-* Structures de donn�es et algorithmes - DUT1 Paris Descartes
-*/
+
 #include "ConteneurTDE.h"
 #include <iostream>
 #include <cassert>
